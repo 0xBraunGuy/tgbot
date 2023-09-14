@@ -1,0 +1,8 @@
+.next
+.vscode
+node_modules
+public
+cypress
+*.md
+dist
+src/@types
